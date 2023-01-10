@@ -9,9 +9,14 @@
 <body>
     <?php
 
-    include_once __DIR__ . '/User.php';
+    include_once __DIR__ . '/UtenteRegistrato.php';
     include_once __DIR__ . '/ECommerce.php';
     include_once __DIR__ . '/Card.php';
+    include_once __DIR__ . '/UtenteRegistrato.php';
+    include_once __DIR__ . '/UtenteNonRegistrato.php';
+    include_once __DIR__ . '/Cibo.php';
+    include_once __DIR__ . '/Cucce.php';
+    include_once __DIR__ . '/Giochi.php';
     
     ?>
 </body>
