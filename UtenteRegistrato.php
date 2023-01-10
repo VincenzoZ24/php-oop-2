@@ -11,4 +11,5 @@ class UtenteRegistrato{
 		$this->$email = $email;
         $this->$indirizzo = $indirizzo;
 	}
+   
 }
