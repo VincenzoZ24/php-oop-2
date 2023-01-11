@@ -19,6 +19,7 @@
     include_once __DIR__ . '/Cibo.php';
     include_once __DIR__ . '/Cucce.php';
     include_once __DIR__ . '/Giochi.php';
+    include_once __DIR__ . '/Conferma.php';
 
 
     ?>
